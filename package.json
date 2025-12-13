@@ -1,0 +1,15 @@
+{
+  "name": "sweet-backend",
+  "version": "1.0.0",
+  "description": "the sweetest backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sweetsquare",
+    "backend"
+  ],
+  "author": "cjarkemax",
+  "license": "ISC"
+}
